@@ -1,0 +1,24 @@
+Privacy Policy for IndexSystem
+1. Data Collection
+We collect the following data to provide and improve IndexSystem:
+
+Personal Information: When you create an account or interact with our system, we may collect personal information such as your name, email address, and other contact details.
+Usage Data: We collect anonymous data on how the system is accessed and used, such as device information, operating system type, and activity logs.
+2. Use of Data
+Personal Data: We use your personal information to provide customer support, send updates, and ensure system security.
+Usage Data: Collected data helps us improve system performance, diagnose issues, and provide personalized features.
+3. Data Sharing
+Third-Party Services: We may share your data with trusted third-party providers necessary for operating IndexSystem (e.g., cloud storage). We do not sell your personal information.
+Legal Requirements: Your data may be disclosed if required by law or to protect the rights and safety of IndexSystem and its users.
+4. Data Security
+We implement industry-standard security measures to protect your data from unauthorized access, alteration, or disclosure. However, no method of transmission over the internet is completely secure.
+
+5. Your Rights
+You have the right to:
+
+Access the personal data we collect about you.
+Request corrections or deletions of your data.
+Withdraw consent for data processing (which may affect your ability to use the system).
+6. Changes to the Privacy Policy
+We may update this policy to reflect changes in legal obligations or system features. You will be notified of any significant changes.
+
