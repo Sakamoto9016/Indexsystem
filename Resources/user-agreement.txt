@@ -1,0 +1,15 @@
+User Agreement for IndexSystem
+1. Acceptance of Terms
+By accessing or using IndexSystem, you agree to comply with and be bound by the terms of this User Agreement. If you do not agree, please refrain from using the system.
+
+2. Use of the Software
+License: IndexSystem grants you a limited, non-transferable, non-exclusive license to use the software as per these terms.
+Restrictions: You may not decompile, reverse-engineer, modify, or distribute the software without prior written consent.
+3. User Responsibilities
+You are responsible for the security of your account and personal data. Keep your login credentials confidential.
+Use the software for lawful purposes only. Any violation of local, national, or international laws may result in termination of access.
+4. Updates and Changes
+IndexSystem reserves the right to modify the terms of this agreement at any time. Notice of changes will be provided, and continued use after such changes constitutes acceptance.
+
+5. Termination
+IndexSystem may terminate or suspend your access if you breach these terms or engage in harmful behavior to the system or other users.
