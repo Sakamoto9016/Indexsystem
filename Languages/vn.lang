@@ -1,6 +1,7 @@
 [
   "Tiếng Anh",
-  "Tiếng Trung",
+  "Tiếng Trung (Phồn Thể)",
+  "Tiếng Trung (Giản Thể)",
   "Tiếng Pháp",
   "Tiếng Đức",
   "Tiếng Hy Lạp",
@@ -11,6 +12,7 @@
   "Tiếng Tây Ban Nha",
   "Tiếng Thái",
   "Tiếng Việt",
+  "Tiếng Bồ Đào Nha"
   "Chào mừng",
   "Chọn một ngôn ngữ để tiếp tục, nhấp và giữ nút cuộn của chuột để kéo cuộn. Sau đó, nhấp vào \"Đi thôi!\" để bắt đầu.",
   "Đi thôi!",
