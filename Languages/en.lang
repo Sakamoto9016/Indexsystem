@@ -1,6 +1,7 @@
 [
   "English",
-  "Chinese",
+  "Chinese (Traditional)",
+  "Chinese (Simplified)",
   "French",
   "German",
   "Greek",
@@ -11,6 +12,7 @@
   "Spanish",
   "Thai",
   "Vietnamese",
+  "Portuguese",
   "Welcome",
   "Choose a language to continue, click and hold middle mouse button to drag scroll. Then, click \"Let's go!\" to begin.",
   "Let's go!",
