@@ -20,5 +20,8 @@
   "By clicking 'Agree', you acknowledge that you have read, understood, and accepted the terms and conditions of this agreement.",
   "Agree",
   "Disagree",
-  "Terms and Conditions"
+  "Terms and Conditions",
+  "Are you sure to quit Setup Wizard?",
+  "Yes",
+  "No"
 ]
