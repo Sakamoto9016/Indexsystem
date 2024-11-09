@@ -1,6 +1,7 @@
 [
   "en.lang",
-  "cn.lang",
+  "ct.lang",
+  "cs.lang",
   "fr.lang",
   "de.lang",
   "gr.lang",
@@ -10,5 +11,6 @@
   "ru.lang",
   "es.lang",
   "th.lang",
-  "vn.lang"
+  "vn.lang",
+  "br.lang"
 ]
